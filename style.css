@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
 
 * {
     padding: 0;
@@ -46,10 +45,7 @@ body {
 
 }
 
-/* .background-setcton {
-    background: url(image/Rectangle1.png) no-repeat center center / cover;
-    width: 100vw;
-} */
+
 
 .contenar-section {
     position: relative;
@@ -741,9 +737,7 @@ body {
 
     .footer-section {
         width: 100%;
-        /* height: 63vh; */
     
-        /* padding: 150px 150px; */
         background-color: #000000;
     
         & .row {
